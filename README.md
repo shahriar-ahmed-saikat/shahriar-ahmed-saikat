@@ -5,12 +5,12 @@
 ## 📊 Current Statistics
 <div align="left">
 
-![mdabarik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdabarik&theme=highcontrast&hide_border=true)
+![mdabarik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahriar-ahmed-saikat&theme=highcontrast&hide_border=true)
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdabarik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdabarik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriar-ahmed-saikat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriar-ahmed-saikat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br />
