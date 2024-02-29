@@ -38,5 +38,5 @@
 
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,materialui,react,nodejs,express,mongodb,firebase,git,github,c,java,r,postgresql)](https://leetcode.com/mdabarik/)
+[![My Skills](https://skillicons.dev/icons?i=html)]
 </div>
