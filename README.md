@@ -1,4 +1,4 @@
-[![LeetCode Profile](https://raw.githubusercontent.com/mdabarik/mdabarik/main/banner/git-banner-v-3.png)](https://www.hackerrank.com/profile/shahriaralamsai1)
+[![LeetCode Profile](https://raw.githubusercontent.com/shahriar-ahmed-saikat/my-files/main/shahriar-alam-1.png)](https://www.hackerrank.com/profile/shahriaralamsai1)
 
 <br />
 
