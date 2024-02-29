@@ -38,5 +38,5 @@
 
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=html)]
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://github.com/shahriar-ahmed-saikat)
 </div>
