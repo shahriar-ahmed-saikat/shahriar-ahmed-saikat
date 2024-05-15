@@ -30,7 +30,7 @@
 - [Product Pulse - Product manage system](https://github.com/mdabarik/product-pulse-mern-app-client)
 - [Hotel Booking - Hotel Management](https://github.com/mdabarik/hotel-booking-client)
 - [Brand Shop - Shop Management](https://github.com/mdabarik/brand-shop-client)
-- [Aircraft Analysis] (https://github.com/shahriar-ahmed-saikat/Mentorness/blob/main/Aircraft%20Analysis.pptx)
+- [Aircraft Analysis](https://github.com/shahriar-ahmed-saikat/Mentorness/blob/main/Aircraft%20Analysis.pptx)
 
 <br />
 
