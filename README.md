@@ -31,6 +31,7 @@
 - [Hotel Booking - Hotel Management](https://github.com/mdabarik/hotel-booking-client)
 - [Brand Shop - Shop Management](https://github.com/mdabarik/brand-shop-client)
 - [Aircraft Analysis](https://github.com/shahriar-ahmed-saikat/Mentorness/blob/main/Airplane%20Crashes%20Analysis.pbix)
+- [Game Analysis Using MySQL](https://github.com/shahriar-ahmed-saikat/Mentorness/blob/main/Game_Analysis_Code.sql)
 
 <br />
 
