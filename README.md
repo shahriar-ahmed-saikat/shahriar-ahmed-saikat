@@ -42,4 +42,5 @@
 <div>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,mysql,py,r)](https://github.com/shahriar-ahmed-saikat)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="48" height="48">
 </div>
