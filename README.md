@@ -43,4 +43,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,mysql,py,r)](https://github.com/shahriar-ahmed-saikat)
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="48" height="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" alt="Excel" width="48" height="48">
 </div>
