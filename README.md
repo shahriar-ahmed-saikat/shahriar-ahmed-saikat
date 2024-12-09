@@ -33,6 +33,7 @@
 - [Aircraft Analysis](https://github.com/shahriar-ahmed-saikat/Mentorness/blob/main/Airplane%20Crashes%20Analysis.pbix)
 - [Game Analysis Using MySQL](https://github.com/shahriar-ahmed-saikat/Mentorness/blob/main/Game_Analysis_Code.sql)
 - [Performance Analysis](https://github.com/shahriar-ahmed-saikat/Perfomance-Analysis.git)
+- [Uber Exploratory Data Analysis](https://github.com/shahriar-ahmed-saikat/Uber-Exploratory-Data-Analysis)
 
 <br />
 
