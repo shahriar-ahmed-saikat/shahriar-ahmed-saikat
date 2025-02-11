@@ -36,7 +36,7 @@
 - [Game Analysis Using MySQL](https://github.com/shahriar-ahmed-saikat/Mentorness/blob/main/Game_Analysis_Code.sql)
 - [Performance Analysis](https://github.com/shahriar-ahmed-saikat/Perfomance-Analysis.git)
 - [Uber Exploratory Data Analysis](https://github.com/shahriar-ahmed-saikat/Uber-Exploratory-Data-Analysis)
-- [Amazon Sales Data Analysis](https://github.com/shahriar-ahmed-saikat/Amazon-Sales-Data-Analysis))
+- [Amazon Sales Data Analysis](https://github.com/shahriar-ahmed-saikat/Amazon-Sales-Data-Analysis)
 <br />
 
 <!-- source: https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
