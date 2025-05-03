@@ -37,6 +37,7 @@
 - [Performance Analysis](https://github.com/shahriar-ahmed-saikat/Perfomance-Analysis.git)
 - [Uber Exploratory Data Analysis](https://github.com/shahriar-ahmed-saikat/Uber-Exploratory-Data-Analysis)
 - [Amazon Sales Data Analysis](https://github.com/shahriar-ahmed-saikat/Amazon-Sales-Data-Analysis)
+- [Financial Sales Analysis](https://github.com/shahriar-ahmed-saikat/Financial-Sales-Analysis)
 <br />
 
 <!-- source: https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
